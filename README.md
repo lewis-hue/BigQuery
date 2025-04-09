@@ -111,5 +111,5 @@ These analyses highlight areas where targeted retention, upselling, and industry
 ### Sales Dashboard (Looker Studio)
 ![B2B SaaS Analysis Dashboard](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Sales%20Dashboard%20(Databricks).png)
 
-- **B2B SaaS Analysis Dashboard (Looker Studio)**: [Sales Dashboard](https://lookerstudio.google.com/reporting/aa21172a-5a1f-4839-b179-01c32a73becf)
+- **B2B SaaS Analysis Dashboard (Looker Studio)**: [B2B SaaS Analysis Dashboard](https://lookerstudio.google.com/reporting/aa21172a-5a1f-4839-b179-01c32a73becf)
 ```{r}
