@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d8d309e8-d8fc-492e-ab75-301137b53d9f)# B2B SAAS Analysis (BigQuery)
+
 ## Data Analysis in BigQuery
 
 In this analysis, we are examining sales transaction data across various stores, products, and countries. The dataset includes variables such as order_date, store_name, product_name, sales_amount, units_sold, country, and revenue_generated.
