@@ -57,7 +57,7 @@ The Retail and Finance sectors may need additional marketing efforts or product 
 Industries with low ARPU could benefit from higher-margin products or services, improving profitability per customer.
 
 ### Predictive Churn Analysis by Support Tickets and NPS Score
-![Predictive Churn Analysis by Support Tickets and NPS Score](http://github.com/lewis-hue/BigQuery/blob/main/Predictive%20Churn%20Analysis%20by%20Support%20Tickets%20and%20NPS%20Score.png)
+![Predictive Churn Analysis by Support Tickets and NPS Score](https://github.com/lewis-hue/BigQuery/blob/main/Predictive%20Churn%20Analysis%20by%20Support%20Tickets%20and%20NPS%20Score.png)
 
 #### Analysis:
 Customers classified as Low Churn Risk represent 339 customers, contributing $873,568.29 in total revenue.
