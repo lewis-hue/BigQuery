@@ -1,4 +1,4 @@
-# B2B SAAS Analysis (BigQuery)
+![image](https://github.com/user-attachments/assets/d8d309e8-d8fc-492e-ab75-301137b53d9f)# B2B SAAS Analysis (BigQuery)
 ## Data Analysis in BigQuery
 
 In this analysis, we are examining sales transaction data across various stores, products, and countries. The dataset includes variables such as order_date, store_name, product_name, sales_amount, units_sold, country, and revenue_generated.
@@ -106,10 +106,10 @@ Customer Segmentation: Low ARPU customers contribute the most revenue, while med
 
 These analyses highlight areas where targeted retention, upselling, and industry-specific strategies can drive both short-term and long-term business growth.
 
-### Databrick Data Visualization
+### Looker Studio Data Visualization
 
-### Sales Dashboard (Databricks)
-![Sales Dashboard](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Sales%20Dashboard%20(Databricks).png)
+### Sales Dashboard (Looker Studio)
+![B2B SaaS Analysis Dashboard](https://github.com/lewis-hue/BusinessIntelligence/blob/main/Sales%20Dashboard%20(Databricks).png)
 
-- **Sales Dashboard (Databricks)**: [Sales Dashboard](https://adb-1725146873610557.17.azuredatabricks.net/dashboardsv3/01f0144f8e891796b011d102c979064a/published?o=1725146873610557)
+- **B2B SaaS Analysis Dashboard (Looker Studio)**: [Sales Dashboard](https://lookerstudio.google.com/reporting/aa21172a-5a1f-4839-b179-01c32a73becf)
 ```{r}
