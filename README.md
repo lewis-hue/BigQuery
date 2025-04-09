@@ -108,7 +108,7 @@ These analyses highlight areas where targeted retention, upselling, and industry
 
 ### Looker Studio Data Visualization
 
-### Sales Dashboard (Looker Studio)
+### B2B SaaS Analysis Dashboard (Looker Studio)
 ![B2B SaaS Analysis Dashboard](https://github.com/lewis-hue/BigQuery/blob/main/B2B%20SaaS%20Dashboard.png)
 
 - **B2B SaaS Analysis Dashboard (Looker Studio)**: [B2B SaaS Analysis Dashboard](https://lookerstudio.google.com/reporting/aa21172a-5a1f-4839-b179-01c32a73becf)
